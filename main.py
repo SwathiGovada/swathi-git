@@ -6,6 +6,6 @@ number = n
   reverse = reverse * 10 + remainder
   n = int(n / 10)
 if(number == reverse):
-  print("Palindrome")
+  print("yes,Palindrome")
 else:
-  print("Not a Palindrome")
+  print("Not Palindrome")
